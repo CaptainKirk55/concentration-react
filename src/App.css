@@ -1,8 +1,9 @@
 #board {
   max-width: 600px;
+  background-color:purple;
 }
 
-.card {
+div.card {
   border-style: solid;
   border-width: 2px;
   border-color: black;
